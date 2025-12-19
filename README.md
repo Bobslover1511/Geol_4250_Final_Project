@@ -5,6 +5,10 @@
   on command line type:
   
   conda create --name geol_4250_final_project python=3.9 numpy scipy pandas geopandas jupyter git
+
+  activate SimPEG:
+
+  conda install --channel conda-forge simpeg
   
 ## Open jupyter lab
   on command line:
